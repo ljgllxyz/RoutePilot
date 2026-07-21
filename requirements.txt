@@ -1,0 +1,2 @@
+# Qt 6.7 is the verified Windows runtime for this desktop application.
+PyQt6>=6.7,<6.8
